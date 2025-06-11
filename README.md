@@ -17,11 +17,11 @@ Project ini adalah REST API sederhana untuk data Users. Mendukung method:
 
 # METHOD PUT /Mengubah Data Pengguna(Update)
 ![WhatsApp Image 2025-06-08 at 23 10 18_06fa3663](https://github.com/user-attachments/assets/03260072-baa0-4152-8f44-4b483ab985fb)
-# HASIL METHOD PUT
+# HASIL METHOD PUT Setelah dilakukan pengupdatean
 ![WhatsApp Image 2025-06-08 at 23 10 57_14b2a879](https://github.com/user-attachments/assets/afb343be-ef53-4693-b6cc-b6defb1bdde2)
 
 # METHOD DELETE/ Menghapus Data Pengguna
 ![WhatsApp Image 2025-06-08 at 23 12 06_0f59f0f6](https://github.com/user-attachments/assets/6ab38582-7627-4dfc-aa5b-6875dbf6e77c)
-# HASIL METHOD DELETE
+# HASIL METHOD DELETE stelah dilakukan penghapusan data pengguna
 ![WhatsApp Image 2025-06-08 at 23 12 33_ba9a06d6](https://github.com/user-attachments/assets/76cd5053-2ef9-4666-83f9-125fd9895b97)
 
